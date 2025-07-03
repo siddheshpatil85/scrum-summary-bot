@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Alice",
+    "updates": [
+      {
+        "date": "2025-06-24",
+        "yesterday": "Completed login module",
+        "today": "Start payment gateway",
+        "blockers": null
+      },
+      {
+        "date": "2025-06-25",
+        "yesterday": "Worked on payment gateway",
+        "today": "Testing payment gateway",
+        "blockers": "Test environment not ready"
+      }
+    ]
+  },
+  {
+    "name": "Bob",
+    "updates": [
+      {
+        "date": "2025-06-24",
+        "yesterday": "Refactored dashboard",
+        "today": "Add KPIs to dashboard",
+        "blockers": "Waiting on UI design"
+      },
+      {
+        "date": "2025-06-25",
+        "yesterday": "Worked on KPIs",
+        "today": "Connect dashboard to backend",
+        "blockers": null
+      }
+    ]
+  }
+]
